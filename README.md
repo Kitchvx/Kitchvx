@@ -1,0 +1,11 @@
+- 👋 Hi, I’m @0.1.4.4 on Instagram.
+- 👀 I’m interested in coding with python, messing around in Linux and Android
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on anything at all!
+- 📫 Reach me at kitchvx@fbi.ac or instagram!
+
+Im looking to do more and use this github to hold all my fututre projects.
+<!---
+Kitchvx/Kitchvx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
