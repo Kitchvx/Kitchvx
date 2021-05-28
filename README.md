@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @0.1.4.4 on Instagram.
+- 👋 Hi, I’m @kitchh._ on Instagram.
 - 👀 I’m interested in coding with python, messing around in Linux and Android
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on anything at all!
