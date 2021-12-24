@@ -1,6 +1,6 @@
-- 👋 Hi, I’m [@kitchvx](https://instagram.com/kitchvx) on Instagram.
-- 👀 I’m interested in coding with python, messing around in Linux and Android
-- 🌱 I’m currently learning Python, HTML and CSS
+- 👋 Hi, I’m [@kitchvx](https://instagram.com/kitchvx).
+- 👀 I’m like to code sometimes with python, messing around in Linux and Android
+- 🌱 I’m trying to learn Python, HTML and CSS
 - 💞️ I’m looking to collaborate on anything at all!
 - 📫 Reach me at my [instagram!](https://instagram.com/kitchvx)
 - Check out my [website!](https://kitchvx.github.io/)
