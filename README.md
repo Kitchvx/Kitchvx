@@ -1,6 +1,6 @@
 # Contact Me On:
 - Instagram: [1214.kitch](https://instagram.com/1214.kitch)
-- Discord: [Kitch#8826](https://discordapp.com/users/548111168120684545)
+- Discord: [Kitch#1111](https://discordapp.com/users/548111168120684545)
 - Twitter: [@Kitchvx](https://twitter.com/Kitchvx)
 
 Check out my [website](https://kitchvx.github.io/)
