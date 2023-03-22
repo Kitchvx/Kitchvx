@@ -10,7 +10,7 @@ I am 18 years old from England, in my spare time away from college I like to cre
 
 ## Projects and Learning
 
-- 🔭 I’m currently working on my own website 
+- 🔭 I’m currently working on my own [website](https://kitchvx.github.io) 
 - 🌱 I’m currently learning Git and .NET 
 
 
