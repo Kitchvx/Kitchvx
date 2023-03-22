@@ -1,12 +1,16 @@
-### Hi there 👋, My name is Nathan
-#### I am 18 years old from England
 ![I am 18 years old from England](https://pbs.twimg.com/profile_banners/1515317280036560899/1679512788/600x200)
 
-In my spare time away from college I like to create and work on projects. I enjoy learning new languages and testing my capabilities to the limits and I'm currently working with my first framework, [Hugo](https://gohugo.io/) to create a new website for me to blog my journey around the IT world. I enjoy programming, using GNU/Linux and web development.
+# Hi there 👋, My name is Nathan
+I am 18 years old from England, in my spare time away from college I like to create and work on projects. I enjoy learning new languages and testing my capabilities to the limits and I'm currently working with my first framework, [Hugo](https://gohugo.io/) to create a new website for me to blog my journey around the IT world. I enjoy programming, using GNU/Linux and web development.
 
-Skills: Python / HTML / CSS / C / C++ / C# 
+## Skills
+- Python
+- HTML, CSS
+- C, C++, C# 
 
-- 🔭 I’m currently working on My own website 
+## Projects and Learning
+
+- 🔭 I’m currently working on my own website 
 - 🌱 I’m currently learning Git and .NET 
 
 
