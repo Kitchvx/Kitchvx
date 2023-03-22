@@ -1,6 +1,6 @@
-# Contact Me On:
+# Contact Me Via:
+- Email: [nathk.nk1214@gmail.com](mailto:nathk.nk1214@gmail.com)
 - Instagram: [1214.kitch](https://instagram.com/1214.kitch)
-- Discord: [Kitch#1111](https://discordapp.com/users/548111168120684545)
 - Twitter: [@Kitchvx](https://twitter.com/Kitchvx)
 - Telegram: [@Kitchvx](https://t.me/Kitchvx)
 
