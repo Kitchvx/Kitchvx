@@ -1,7 +1,7 @@
 ![](banner.png)
 
 # Hi there 👋, My name is Nathan
-I am 18 years old from England, in my spare time away from college I like to create and work on projects. I enjoy learning new languages and testing my capabilities to the limits and I'm currently working with my first framework, [Hugo](https://gohugo.io/) to create a new website for me to blog my journey around the IT world. I enjoy programming, using GNU/Linux and web development.
+I am from England, in my spare time away from work I like to create and work on projects. I enjoy learning new languages and testing my capabilities to the limits and I'm currently working with my first framework, [Hugo](https://gohugo.io/) to create a new website for me to blog my journey around the IT world. I enjoy programming, using GNU/Linux and web development.
 
 ## Skills
 - Python
