@@ -6,12 +6,13 @@ I am from England, in my spare time away from work I like to create and work on 
 ## Skills
 - Python
 - HTML, CSS
-- C, C++, C# 
+- C, C++, C#
+- Git
 
-## Projects and Learning
+## Projects🔭 and Learning🌱
 
-- 🔭 I’m currently working on my own [website](https://kitch.blog) 
-- 🌱 I’m currently learning Git and .NET and using Wordpress + WooCommerce
+- 🔭 I’m currently working on my own [website](https://nkitch.com) 
+- 🌱 I’m currently learning NodeJS and React.
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@8.8.0/icons/github.svg' alt='github' height='40'>](https://github.com/kitchvx)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@8.8.0/icons/devdotto.svg' alt='dev' height='40'>](https://dev.to/kitchvx)    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@8.8.0/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/kitchh/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@8.8.0/icons/icloud.svg' alt='website' height='40'>](https://kitchvx.github.io)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@8.8.0/icons/telegram.svg' alt='telegram' height='40'>](t.me/Kitchvx)  
