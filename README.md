@@ -11,7 +11,8 @@ I am from England, in my spare time away from work I like to create and work on 
 
 ## Projects🔭 and Learning🌱
 
-- 🔭 I’m currently working on my own [website](https://nkitch.com) 
+- 🔭 I’m currently working on my own [website](https://nkitch.com)
+- 🔭 I'm currently working on a client's website (Not in Production yet)
 - 🌱 I’m currently learning NodeJS and React.
 
 
