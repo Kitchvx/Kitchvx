@@ -10,8 +10,6 @@ and the occasional web project in Next.js.
 ## What I'm working on
 
 - [nkitch.com](https://nkitch.com) - landing page and portfolio gateway
-- [portfolio.nkitch.com](https://portfolio.nkitch.com) - Next.js portfolio with project showcase
-- Custom dwm and st builds running on Arch
 - Slowly developing into the InfoSec space. hardware hacking, malware and software reversing
 - Off the keyboard: BMW E46 build project, motorsport (especially WRC)
 
