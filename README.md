@@ -22,7 +22,7 @@ basic Docker, Microsoft 365 admin (Entra, Intune, Exchange, SharePoint, Teams)
 
 ## Where else to find me
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@8.8.0/icons/github.svg' alt='github' height='40'>](https://github.com/kitchvx)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@8.8.0/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/kitchh/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@8.8.0/icons/icloud.svg' alt='website' height='40'>](https://nkitch.com)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@8.8.0/icons/telegram.svg' alt='telegram' height='40'>](t.me/Kitchvx)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@8.8.0/icons/github.svg' alt='github' height='40'>](https://github.com/kitchvx)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@8.8.0/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/kitchh/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@8.8.0/icons/icloud.svg' alt='website' height='40'>](https://nkitch.com)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@8.8.0/icons/telegram.svg' alt='telegram' height='40'>](t.me/k_tch)  
 
 
 ![Kitch's GitHub stats](https://github-readme-stats.vercel.app/api?username=kitchvx&show_icons=true&theme=dark)
